@@ -1,1 +1,0 @@
-!function(){if(document.documentElement.clientWidth>500){var l=$("#header");$(window).on("scroll",function(){(window.scrollY||window.pageYOffset)>40?l.addClass("small"):l.removeClass("small")})}}();
